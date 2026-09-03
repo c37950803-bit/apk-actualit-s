@@ -1,0 +1,6 @@
+{
+  "name": "ActuMBPM",
+  "description": "Agrégateur d'actualités pour le Cameroun, l'Afrique et le Monde respectant strictement l'architecture MBPM (Model, Business, Presentation, Mapper).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
